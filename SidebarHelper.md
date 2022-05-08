@@ -1,5 +1,5 @@
 
-###Helper.php dosyasına şunu ekleyin:
+### Helper.php dosyasına şunu ekleyin:
 ```php
 if (!function_exists('onPageAll')) {
     function onPageAll($url = null, $type = null)
@@ -52,7 +52,7 @@ if (!function_exists('onPageAll')) {
 }
 ```
 
-###Sidebar dosyasındaki menü yapınızı aşağıdaki gibi düzenleyin :
+### Sidebar dosyasındaki menü yapınızı aşağıdaki gibi düzenleyin :
 ```Html
 #### Ana Menü açık kalması için "m" 
 #### Ana Menü linki active classını alması için "ma" 
