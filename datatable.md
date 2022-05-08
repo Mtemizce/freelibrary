@@ -29,4 +29,4 @@ $('.tableClass').DataTable( {
  
 ```Javascript
 "dom": '<"div.card-tools"flp><"clear">',
-``
+```
